@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MusicLibrary()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ MusicLibrary\r\n
+comment1.params=album
+comment1.target=void\ addAlbum(Album)
+comment2.params=
+comment2.target=void\ fillMusicLibrary()
+comment3.params=title
+comment3.target=Album\ getAlbum(java.lang.String)
+numComments=4
